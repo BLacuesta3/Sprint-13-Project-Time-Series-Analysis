@@ -20,11 +20,11 @@ The models explored in this project include:
 
 * SARIMAX model
 
-The workflow includes an exploratory data analysis (EDA) stage featuring:
+The workflow includes exploratory data analysis (EDA) stage featuring:
 
-A histogram illustrating the distribution of taxi orders
+* A histogram illustrating the distribution of taxi orders
 
-Time series decomposition plots highlighting the data’s trend, seasonality, and residual components
+* Time series decomposition plots highlighting the data’s trend, seasonality, and residual components
 
 This project compares both machine learning and statistical time series models to determine which approach delivers the most accurate forecasts for operational planning. 
 
