@@ -2,8 +2,6 @@ Project Title: Sprint 13 Project/ Time Series Analysis
 
 Project Description:
 
-Project Description
-
 This project focuses on time series analysis and forecasting for the Sweet Lift Taxi Company. The goal is to build and compare multiple predictive models to estimate future taxi order volumes. The models explored in this project include:
 
 Linear Regression
