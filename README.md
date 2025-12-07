@@ -24,6 +24,8 @@ The workflow includes exploratory data analysis (EDA) stage featuring:
 
 * A histogram illustrating the distribution of taxi orders
 
+* Time series charts that display: the total number of orders per hour over time, the rolling mean of the the total number of orders per hour over time, and the standard deviation of the total number of orders per hour over time
+
 * Time series decomposition plots highlighting the data’s trend, seasonality, and residual components
 
 This project compares both machine learning and statistical time series models to determine which approach delivers the most accurate forecasts for operational planning. 
