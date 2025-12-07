@@ -6,19 +6,19 @@ This project focuses on time series analysis and forecasting for the Sweet Lift 
 
 The models explored in this project include:
 
-Linear Regression
+* Linear Regression
 
-Random Forest Regressor
+* Random Forest Regressor
 
-LightGBM Regressor
+* LightGBM Regressor
 
-Autoregressive (AR) model
+* Autoregressive (AR) model
 
-Moving Average (MA) model
+* Moving Average (MA) model
 
-ARMA model
+* ARMA model
 
-SARIMAX model
+* SARIMAX model
 
 The workflow includes an exploratory data analysis (EDA) stage featuring:
 
