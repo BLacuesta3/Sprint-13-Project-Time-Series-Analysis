@@ -26,4 +26,23 @@ A histogram illustrating the distribution of taxi orders
 
 Time series decomposition plots highlighting the data’s trend, seasonality, and residual components
 
-This project compares both machine learning and statistical time series models to determine which approach delivers the most accurate forecasts for operational planning.
+This project compares both machine learning and statistical time series models to determine which approach delivers the most accurate forecasts for operational planning. 
+
+
+Libraries Used In This Project:
+
+* pandas
+
+* scikit-learn
+
+* seaborn
+
+* matplotlib
+
+* statsmodels
+
+* numpy
+
+* pmdarima
+
+* lightgbm
